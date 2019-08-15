@@ -1,0 +1,2 @@
+# ccheck
+dummy credit check
